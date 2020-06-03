@@ -12,6 +12,7 @@ public class SpringBoot {
 		SpringApplication.run(SpringBoot.class, args);
 		System.out.println("12313213");
 		System.out.println("zxcvbnm");
+		System.out.println("qwer");
 	}
 	
 	
